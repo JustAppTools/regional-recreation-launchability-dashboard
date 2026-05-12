@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lake Roosevelt Launchability Dashboard</title>
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="eyebrow">Public-data portfolio project</p>
+        <h1>Lake Roosevelt Launchability Dashboard</h1>
+        <p class="subtitle">
+          Reservoir-elevation margins for Lake Roosevelt NRA boat launches using NPS-published minimum launch elevations.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section class="notice">
+        <div>
+          <h2>Personal public-data project</h2>
+          <p>
+            This dashboard is not official NPS guidance. Status labels mean likely usable based on published elevation thresholds only, and are subject to official NPS alerts, maintenance, weather, debris, and on-the-ground conditions.
+          </p>
+        </div>
+      </section>
+
+      <section class="metadata-strip" aria-label="Data metadata">
+        <div>
+          <span class="metadata-strip__label">Lake elevation observed</span>
+          <strong id="metadataObserved">Loading...</strong>
+        </div>
+        <div>
+          <span class="metadata-strip__label">Data retrieved</span>
+          <strong id="metadataRetrieved">Loading...</strong>
+        </div>
+        <div>
+          <span class="metadata-strip__label">Lake elevation source</span>
+          <strong id="metadataSource">Loading...</strong>
+        </div>
+      </section>
+
+      <section class="summary-grid" aria-label="Dashboard summary">
+        <article class="metric">
+          <span class="metric__label">Current/recent lake elevation</span>
+          <strong id="lakeElevation">Loading...</strong>
+          <span id="observedAt">Observed time loading</span>
+        </article>
+        <article class="metric">
+          <span class="metric__label">Likely usable</span>
+          <strong id="likelyCount">-</strong>
+          <span>margin of 5 ft or more</span>
+        </article>
+        <article class="metric">
+          <span class="metric__label">Marginal</span>
+          <strong id="marginalCount">-</strong>
+          <span>0 to under 5 ft margin</span>
+        </article>
+        <article class="metric">
+          <span class="metric__label">Below threshold</span>
+          <strong id="belowCount">-</strong>
+          <span>negative margin</span>
+        </article>
+      </section>
+
+      <section class="workspace">
+        <div class="map-panel">
+          <div class="section-heading">
+            <h2>Launch Map</h2>
+            <p id="lastUpdated">Last updated loading...</p>
+          </div>
+          <div id="map" aria-label="Interactive map of Lake Roosevelt boat launches"></div>
+        </div>
+
+        <div class="table-panel">
+          <div class="section-heading">
+            <h2>Launch Status</h2>
+            <p>Sorted by lowest margin first.</p>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Launch</th>
+                  <th>Minimum ft</th>
+                  <th>Margin ft</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody id="launchRows"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section class="source-band">
+        <div>
+          <h2>Source Attribution</h2>
+          <p>
+            Minimum launch elevations: <a href="https://www.nps.gov/laro/planyourvisit/boating.htm">National Park Service Lake Roosevelt boating page</a>.
+            Lake elevation: <a href="https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html">Bureau of Reclamation Grand Coulee Dam Lake Roosevelt lake levels</a>.
+            USGS station metadata/fallback: <a href="https://waterservices.usgs.gov/">USGS Water Services site 12436000</a>.
+            Map tiles and coordinate support: OpenStreetMap contributors.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="data/launch_status.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
