@@ -22,7 +22,7 @@ Open `docs/index.html` in a browser after running the pipeline.
 
 - NPS Lake Roosevelt boating page: public boat launch minimum lake elevations.
 - Bureau of Reclamation Grand Coulee Dam Lake Roosevelt lake levels page: current/recent observed elevation.
-- USGS site 12436000 catalog/daily endpoint: official site metadata and fallback data check for Franklin Roosevelt Lake at Grand Coulee Dam.
+- [USGS Water Services site 12436000](https://waterdata.usgs.gov/monitoring-location/12436000/) catalog/daily endpoint: official site metadata and fallback data check for Franklin Roosevelt Lake at Grand Coulee Dam.
 - OpenStreetMap and NPS structured data: V1 launch point coordinate seeds for mapping.
 
 ## Status Rules
@@ -32,4 +32,3 @@ Open `docs/index.html` in a browser after running the pipeline.
 - `Below threshold`: `margin_ft < 0`
 
 `margin_ft = current_lake_elevation_ft - minimum_launch_elevation_ft`
-
