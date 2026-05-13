@@ -18,6 +18,18 @@ The pipeline writes:
 
 Open `docs/index.html` in a browser after running the pipeline.
 
+## Refresh Data
+
+On Windows, use the local virtual environment Python directly:
+
+```powershell
+& .\.venv\Scripts\python.exe scripts\run_all.py
+```
+
+GitHub Actions refreshes the generated dashboard data once per day at `13:00 UTC` using the workflow in `.github/workflows/refresh-dashboard.yml`. The workflow can also be run manually from the repository's GitHub Actions tab by selecting **Refresh dashboard data** and choosing **Run workflow**.
+
+When the workflow commits refreshed generated data, GitHub Pages updates from the committed `docs/` files.
+
 ## Data Sources
 
 - NPS Lake Roosevelt boating page: public boat launch minimum lake elevations.
