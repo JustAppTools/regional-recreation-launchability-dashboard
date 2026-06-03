@@ -17,6 +17,23 @@ function formatNumber(value, digits = 1) {
   });
 }
 
+function formatRetrievedAt(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return value;
+  }
+
+  return new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/Denver",
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    timeZoneName: "short",
+  }).format(date);
+}
+
 function statusBadge(status) {
   return `<span class="status ${statusClass[status] || ""}">${status}</span>`;
 }
@@ -41,12 +58,13 @@ function updateSummary(data) {
     },
     {}
   );
+  const retrievedAt = formatRetrievedAt(metadata.retrieved_at);
 
   document.getElementById("lakeElevation").textContent = `${formatNumber(metadata.current_lake_elevation_ft)} ft`;
   document.getElementById("observedAt").textContent = `Observed: ${metadata.observed_at}`;
-  document.getElementById("lastUpdated").textContent = `Data retrieved: ${metadata.retrieved_at}`;
+  document.getElementById("lastUpdated").textContent = `Dashboard data retrieved: ${retrievedAt}`;
   document.getElementById("metadataObserved").textContent = metadata.observed_at;
-  document.getElementById("metadataRetrieved").textContent = metadata.retrieved_at;
+  document.getElementById("metadataRetrieved").textContent = retrievedAt;
   document.getElementById("metadataSource").textContent = metadata.lake_elevation_source;
   document.getElementById("likelyCount").textContent = counts["Likely usable"] || 0;
   document.getElementById("marginalCount").textContent = counts.Marginal || 0;

@@ -1,6 +1,6 @@
-# Lake Roosevelt Launchability Dashboard
+# Regional Recreation Launchability Dashboard
 
-V1 public-data dashboard estimating Lake Roosevelt NRA boat launch usability from current/recent reservoir elevation and NPS-published minimum launch elevations.
+V1 public-data dashboard estimating regional boat launch usability from latest available reservoir elevation and published minimum launch elevations.
 
 This is a personal portfolio project and is not official NPS guidance. Results should be read as "likely usable based on published elevation thresholds" and are subject to official NPS alerts, maintenance, weather, debris, and on-the-ground conditions.
 
