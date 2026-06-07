@@ -1,11 +1,11 @@
 window.LAUNCH_STATUS_DATA = {
   "type": "FeatureCollection",
   "metadata": {
-    "current_lake_elevation_ft": 1274.36,
-    "observed_at": "2026-05-31T00:00:00.000",
-    "retrieved_at": "2026-06-06T08:27:28-06:00",
-    "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-    "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
+    "current_lake_elevation_ft": 1269.3,
+    "observed_at": "May 27, 2026",
+    "retrieved_at": "2026-06-07T08:49:12-06:00",
+    "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+    "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
     "status_rules": {
       "Likely usable": "margin_ft >= 5",
       "Marginal": "0 <= margin_ft < 5",
@@ -26,15 +26,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Hawk Creek",
         "minimum_launch_elevation_ft": "1281.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-6.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-11.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap slipway near Hawk Creek / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -49,15 +49,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Marcus Island",
         "minimum_launch_elevation_ft": "1281.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-6.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-11.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -72,15 +72,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Evans",
         "minimum_launch_elevation_ft": "1280.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-5.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-10.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -95,15 +95,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Napoleon Bridge",
         "minimum_launch_elevation_ft": "1280.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-5.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-10.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -118,15 +118,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "North Gorge",
         "minimum_launch_elevation_ft": "1280.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-5.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-10.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap named slipway / NPS structured data",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -141,15 +141,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "China Bend",
         "minimum_launch_elevation_ft": "1277.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-2.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-7.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -164,15 +164,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Snag Cove",
         "minimum_launch_elevation_ft": "1277.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "-2.6",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "-7.7",
         "status": "Below threshold",
         "coordinate_source": "OpenStreetMap named slipway / NPS structured data",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -187,15 +187,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Jones Bay",
         "minimum_launch_elevation_ft": "1268.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "6.4",
-        "status": "Likely usable",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "1.3",
+        "status": "Marginal",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -210,15 +210,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Crescent Bay",
         "minimum_launch_elevation_ft": "1265.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "9.4",
-        "status": "Likely usable",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "4.3",
+        "status": "Marginal",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -233,15 +233,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Daisy",
         "minimum_launch_elevation_ft": "1265.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "9.4",
-        "status": "Likely usable",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "4.3",
+        "status": "Marginal",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -256,15 +256,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "French Rocks",
         "minimum_launch_elevation_ft": "1265.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "9.4",
-        "status": "Likely usable",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "4.3",
+        "status": "Marginal",
         "coordinate_source": "OpenStreetMap named slipway",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -279,15 +279,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Hanson Harbor",
         "minimum_launch_elevation_ft": "1253.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "21.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "16.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -302,15 +302,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Bradbury Beach",
         "minimum_launch_elevation_ft": "1251.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "23.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "18.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -325,15 +325,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Gifford",
         "minimum_launch_elevation_ft": "1249.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "25.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "20.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -348,15 +348,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Fort Spokane",
         "minimum_launch_elevation_ft": "1247.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "27.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "22.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -371,15 +371,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Lincoln Mill",
         "minimum_launch_elevation_ft": "1245.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "29.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "24.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -394,15 +394,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Porcupine Bay",
         "minimum_launch_elevation_ft": "1243.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "31.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "26.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -417,15 +417,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Kettle Falls",
         "minimum_launch_elevation_ft": "1234.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "40.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "35.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -440,15 +440,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Hunters Camp",
         "minimum_launch_elevation_ft": "1232.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "42.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "37.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -463,15 +463,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Keller Ferry",
         "minimum_launch_elevation_ft": "1229.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "45.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "40.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / concessionaire vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -486,15 +486,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Seven Bays",
         "minimum_launch_elevation_ft": "1227.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "47.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "42.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     },
     {
@@ -509,15 +509,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Spring Canyon",
         "minimum_launch_elevation_ft": "1222.0",
-        "current_lake_elevation_ft": "1274.4",
-        "margin_ft": "52.4",
+        "current_lake_elevation_ft": "1269.3",
+        "margin_ft": "47.3",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
-        "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
-        "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
-        "observed_at": "2026-05-31T00:00:00.000",
-        "data_retrieved_at": "2026-06-06T08:27:28-06:00"
+        "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
+        "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
+        "observed_at": "May 27, 2026",
+        "data_retrieved_at": "2026-06-07T08:49:12-06:00"
       }
     }
   ]
