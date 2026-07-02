@@ -1,9 +1,9 @@
 window.LAUNCH_STATUS_DATA = {
   "type": "FeatureCollection",
   "metadata": {
-    "current_lake_elevation_ft": 1285.3,
-    "observed_at": "June 23, 2026",
-    "retrieved_at": "2026-07-01T09:37:24-06:00",
+    "current_lake_elevation_ft": 1285.4,
+    "observed_at": "June 30, 2026",
+    "retrieved_at": "2026-07-02T09:09:58-06:00",
     "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
     "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
     "status_rules": {
@@ -26,15 +26,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Hawk Creek",
         "minimum_launch_elevation_ft": "1281.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "4.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "4.4",
         "status": "Marginal",
         "coordinate_source": "OpenStreetMap slipway near Hawk Creek / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -49,15 +49,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Marcus Island",
         "minimum_launch_elevation_ft": "1281.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "4.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "4.4",
         "status": "Marginal",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -72,15 +72,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Evans",
         "minimum_launch_elevation_ft": "1280.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "5.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "5.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -95,15 +95,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Napoleon Bridge",
         "minimum_launch_elevation_ft": "1280.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "5.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "5.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -118,15 +118,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "North Gorge",
         "minimum_launch_elevation_ft": "1280.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "5.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "5.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS structured data",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -141,15 +141,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "China Bend",
         "minimum_launch_elevation_ft": "1277.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "8.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "8.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -164,15 +164,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Snag Cove",
         "minimum_launch_elevation_ft": "1277.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "8.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "8.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS structured data",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -187,15 +187,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Jones Bay",
         "minimum_launch_elevation_ft": "1268.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "17.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "17.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -210,15 +210,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Crescent Bay",
         "minimum_launch_elevation_ft": "1265.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "20.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "20.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -233,15 +233,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Daisy",
         "minimum_launch_elevation_ft": "1265.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "20.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "20.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -256,15 +256,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "French Rocks",
         "minimum_launch_elevation_ft": "1265.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "20.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "20.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -279,15 +279,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Hanson Harbor",
         "minimum_launch_elevation_ft": "1253.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "32.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "32.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -302,15 +302,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Bradbury Beach",
         "minimum_launch_elevation_ft": "1251.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "34.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "34.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -325,15 +325,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Gifford",
         "minimum_launch_elevation_ft": "1249.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "36.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "36.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -348,15 +348,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Fort Spokane",
         "minimum_launch_elevation_ft": "1247.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "38.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "38.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -371,15 +371,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Lincoln Mill",
         "minimum_launch_elevation_ft": "1245.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "40.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "40.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -394,15 +394,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Porcupine Bay",
         "minimum_launch_elevation_ft": "1243.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "42.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "42.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -417,15 +417,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Kettle Falls",
         "minimum_launch_elevation_ft": "1234.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "51.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "51.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -440,15 +440,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Hunters Camp",
         "minimum_launch_elevation_ft": "1232.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "53.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "53.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap named slipway / NPS place page",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -463,15 +463,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Keller Ferry",
         "minimum_launch_elevation_ft": "1229.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "56.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "56.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / concessionaire vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -486,15 +486,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Seven Bays",
         "minimum_launch_elevation_ft": "1227.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "58.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "58.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / public map review",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     },
     {
@@ -509,15 +509,15 @@ window.LAUNCH_STATUS_DATA = {
       "properties": {
         "launch_name": "Spring Canyon",
         "minimum_launch_elevation_ft": "1222.0",
-        "current_lake_elevation_ft": "1285.3",
-        "margin_ft": "63.3",
+        "current_lake_elevation_ft": "1285.4",
+        "margin_ft": "63.4",
         "status": "Likely usable",
         "coordinate_source": "OpenStreetMap slipway / NPS structured data vicinity",
         "threshold_source_url": "https://www.nps.gov/laro/planyourvisit/boating.htm",
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
-        "observed_at": "June 23, 2026",
-        "data_retrieved_at": "2026-07-01T09:37:24-06:00"
+        "observed_at": "June 30, 2026",
+        "data_retrieved_at": "2026-07-02T09:09:58-06:00"
       }
     }
   ]
