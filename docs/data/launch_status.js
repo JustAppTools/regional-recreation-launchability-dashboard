@@ -3,7 +3,7 @@ window.LAUNCH_STATUS_DATA = {
   "metadata": {
     "current_lake_elevation_ft": 1285.4,
     "observed_at": "June 30, 2026",
-    "retrieved_at": "2026-07-10T09:28:11-06:00",
+    "retrieved_at": "2026-07-11T08:19:24-06:00",
     "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
     "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
     "status_rules": {
@@ -34,7 +34,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -57,7 +57,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -80,7 +80,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -103,7 +103,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -126,7 +126,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -149,7 +149,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -172,7 +172,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -195,7 +195,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -218,7 +218,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -241,7 +241,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -264,7 +264,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -287,7 +287,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -310,7 +310,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -333,7 +333,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -356,7 +356,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -379,7 +379,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -402,7 +402,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -425,7 +425,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -448,7 +448,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -471,7 +471,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -494,7 +494,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     },
     {
@@ -517,7 +517,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "Bureau of Reclamation Grand Coulee Dam Lake Roosevelt Lake Levels",
         "lake_elevation_source_url": "https://www.usbr.gov/pn/grandcoulee/lakelevel/index.html",
         "observed_at": "June 30, 2026",
-        "data_retrieved_at": "2026-07-10T09:28:11-06:00"
+        "data_retrieved_at": "2026-07-11T08:19:24-06:00"
       }
     }
   ]
