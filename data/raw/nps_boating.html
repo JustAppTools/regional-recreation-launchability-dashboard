@@ -193,8 +193,8 @@ secure websites.
 <!--googleon: index-->
 <!--googleoff: index-->
 <div class="GlobalHeader usaGlobalHeader" role="banner">
-<div class="GlobalHeader__Navbar container GlobalHeader__Navbar--Park ">
-<a class="GlobalHeader__Branding link-white" href="/">
+<div class="GlobalHeader__Navbar container">
+<a class="GlobalHeader__Branding me-auto link-white" href="/">
 <img src="/theme/assets/dist/images/branding/logo.png"
 alt=""
 width="80"
@@ -204,12 +204,6 @@ class="GlobalHeader__Branding__Arrowhead img-fluid">
 National Park Service
 </span>
 </a>
-<div class="GlobalHeader__ParkBranding">
-<a href="" class="GlobalHeader__ParkBranding__Link">
-<span class="GlobalHeader__ParkBranding__Name">Lake Roosevelt</span>
-National Recreation Area
-</a>
-</div>
 <a href="#GlobalFooterSearchInput"
 class="GlobalHeader__FooterSearchLink js-scrollTo link-white">
 <svg class="usa-icon"
@@ -262,8 +256,8 @@ value="www.nps.gov/laro">
 <input type="hidden" name="affiliate" value="nps">
 </form>
 </div>
-<nav id="GlobalNav" class="GlobalNav usaGlobalNav">
-<div id="GlobalNavButtonContainer" class="usaGlobalNavButtonContainer">
+<nav id="GlobalNav" class="GlobalNav">
+<h1 id="GlobalNavButtonContainer" class="usaGlobalNavButtonContainer">
 <button type="button"
 id="GlobalNav-toggle"
 class="usa-button usa-button--inverse-fill"
@@ -291,7 +285,7 @@ Close
 <span class="visually-hidden">Menu</span>
 </span>
 </button>
-</div>
+</h1>
 <div id="GlobalNavCollapse" class="collapse">
 <div class="container">
 <p class="GlobalNav__LanguageInfo">
@@ -329,18 +323,39 @@ window.addEventListener('load', (event) => {
 NPS.utility.updateBannerImageFromJSON( "laro" );
 });
 </script>
-</div></div><div id="cs_control_481855" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_61921_481855"> </div></div></div></div></div></div>
-<div class="nps-park-header bg-black text-white usa-dark-background">
+<header id="HERO" class="Hero Hero--Ribbon -secondary">
+<div id="HeroBanner" class="HeroBanner ">
+<div class="HeroBanner__TitleContainer">
 <div class="container">
-<a href="/laro/index.htm" class="nps-park-header__title">
-<span class="nps-park-header__title__name">
-Lake Roosevelt
+<a href="&#x2f;laro&#x2f;"
+class="HeroBanner__Title"
+>Lake Roosevelt</a>
+<div class="HeroBanner__Subtitle" role="presentation">
+<span class="Hero-designation" >National Recreation Area</span>
+<span class="Hero-location" >
+Washington
 </span>
-National Recreation Area
-</a>
-<!--googleoff: index-->
-<div class="nps-park-header__navbar">
-<nav id="LocalNav-desktop-nav">
+</div>
+</div>
+</div>
+<div class="picturefill-background"
+role="img"
+style="background-image: url('/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=1024&height=200');background-position 50% 0%;" aria-label="Purple flowers on green plants overlooking a sweeping blue lake and one motorboat on the water.">
+<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=1200&height=200"
+data-media="(min-width: 1024px)"></span>
+<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=2400&height=400"
+data-media="(min-width: 1024px) and (min-resolution: 144dppx)"></span>
+<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=2400&height=400"
+data-media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5)"></span>
+<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=2400&height=400"
+data-media="(min-width: 1440px)"></span>
+</div>
+</div>
+</header>
+</div></div><div id="cs_control_481855" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_61921_481855"> </div></div></div></div></div></div>
+<div id="Park-header">
+<div class="container">
+<div class="pull-left">
 <!--googleoff: index-->
 <nav id="LocalNav-desktop-nav" role="navigation">
 <div id="cs_control_699042" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_61921_699042"><div id="cs_control_481717" class="cs_control CS_Element_Custom"><!-- _CSDPFID=61921|61921=_CSDPFID -->
@@ -349,7 +364,7 @@ div.ColumnMain #npsNav h2 { display:none }
 </style>
 <!-- nav -->
 <!--googleoff: index-->
-<div id="npsNav" class="FE6AB6ED-B53D-6147-D195BC059C1B4025">
+<div id="npsNav" class="FA45F1BC-E5D3-3B53-3C4C29A74D72CEE2">
 <ul id="LocalNav" class="sm sm-nps"></ul>
 </div>
 <!--googleon: index-->
@@ -376,49 +391,66 @@ $("ul#LocalNav > li > a")
 .wrap("<div class='top-lvl-item'>");
 })(jQuery);
 </script>
-</nav>
-<nav>
-<ul id="UtilityNav" class="nps-park-header__utility-nav">
+</div>
+<!--googleoff: index-->
+<div class="Utility-nav">
+<div id="UtilityNav" class="UtilityNav" role="navigation">
+<ul>
 <li>
-<a class="usa-link" href="/laro/planyourvisit/basicinfo.htm">
-Info
+<a href="/laro/planyourvisit/basicinfo.htm">
+<span class="UtilityNav-text">Info</span>
+<svg class="usa-icon"
+role="presentation"
+focusable="false">
+<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#info" />
+</svg>
+</a>
+</li>
+<li class="UtilityNav__Alerts">
+<a href="/laro/planyourvisit/conditions.htm">
+<span class="UtilityNav-text">Alerts</span>
+<span class="UtilityNav-badge"></span>
+<svg class="usa-icon"
+role="presentation"
+focusable="false">
+<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#safety-caution-alerts" />
+</svg>
 </a>
 </li>
 <li>
-<a class="usa-link" href="/laro/planyourvisit/conditions.htm">
-Alerts
-<span class="usa-tag" id="nps-park-header-alerts-badge"></span>
+<a href="/laro/planyourvisit/maps.htm">
+<span class="UtilityNav-text">Maps</span>
+<svg class="usa-icon"
+role="presentation"
+focusable="false">
+<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#location_on" />
+</svg>
 </a>
 </li>
 <li>
-<a class="usa-link" href="/laro/planyourvisit/maps.htm">
-Maps
+<a href="/laro/planyourvisit/calendar.htm">
+<span class="UtilityNav-text">Calendar</span>
+<svg class="usa-icon"
+role="presentation"
+focusable="false">
+<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#event" />
+</svg>
 </a>
 </li>
 <li>
-<a class="usa-link" href="/laro/planyourvisit/calendar.htm">
-Calendar
-</a>
-</li>
-<li>
-<a class="usa-link" href="/laro/planyourvisit/fees.htm">
-Fees
+<a href="/laro/planyourvisit/fees.htm">
+<span class="UtilityNav-text">Fees</span>
+<svg class="usa-icon"
+role="presentation"
+focusable="false">
+<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#passes-and-fees" />
+</svg>
 </a>
 </li>
 </ul>
-</nav>
+</div>
 </div>
 <!--googleon: index-->
-</div>
-</div>
-<div id="nps-park-alert-banner" data-site-code="laro" hidden>
-<div class="container">
-<div class="usa-alert margin-top-3">
-<div class="usa-alert__body">
-<p class="usa-alert__text"></p>
-</div>
-</div>
-<div class="visually-hidden" role="status"></div>
 </div>
 </div>
 <div id="nps-park-alert-banner" data-site-code="laro" hidden>
@@ -513,10 +545,10 @@ NPS.display.showAdminTools( 0 );
 </div>
 <div id="cs_spacer_7540325" class="CS_Layout_SpacingHeight" style="line-height:1;"> </div>
 <div id="cs_control_7540325" class="cs_control CS_Element_Custom">
-<div class="Component InPageNav" id="64353C5D-BACF-1A24-AC74E0DEDBA81D62-InPageNav">
-<nav class="dropdown" aria-labelledby="64353C5D-BACF-1A24-AC74E0DEDBA81D62-InPageNav-Title">
+<div class="Component InPageNav" id="53394991-A460-A23C-86089DA4D2A6D4A3-InPageNav">
+<nav class="dropdown" aria-labelledby="53394991-A460-A23C-86089DA4D2A6D4A3-InPageNav-Title">
 <button class="btn btn-light dropdown-toggle"
-id="64353C5D-BACF-1A24-AC74E0DEDBA81D62-InPageNav-Title"
+id="53394991-A460-A23C-86089DA4D2A6D4A3-InPageNav-Title"
 type="button"
 data-bs-toggle="dropdown"
 data-tracking='{"type":"event","category":"PYV Component","action1":"Open","action2":"Close","label":"Navigation In Page"}'
@@ -1032,18 +1064,6 @@ list.innerHTML = '';
 <!--googleoff: index-->
 <footer id="GlobalFooter" class="usa-footer">
 <div class="usa-footer__primary-section">
-<picture class="usa-footer__primary-section-bg" aria-hidden="true">
-<source
-media="(max-width: 599px)"
-srcset="/common/commonspot/templates/assets/images/app-promo/app-promo-background-square.png?format=webp"
-type="image/webp">
-<img
-class="usa-footer__primary-section-bg__image"
-src="/common/commonspot/templates/assets/images/app-promo/app-promo-background-large.png?format=webp"
-alt=""
-loading="lazy"
-decoding="async">
-</picture>
 <div class="container">
 <form id="GlobalFooterSearch"
 class="GlobalFooter__Search usa-form usa-form--large"
