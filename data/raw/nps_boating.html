@@ -36,6 +36,7 @@ var jsSiteResourceSettings = {canCombine: false, canMinify: false};
 <!-- override ParkSite from Standard Template-->
 <meta charset="utf-8">
 <link href="/common/commonspot/templates/images/icons/favicon.ico" rel="shortcut icon">
+<meta name="description" content="Boating information">
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,7 +54,6 @@ var jsSiteResourceSettings = {canCombine: false, canMinify: false};
 <![endif]-->
 <!--[if !IE]> -->
 <script src="/common/commonspot/templates/assets/js/app.early.min.js?v=20230112"></script>
-<script src="/common/commonspot/templates/js/uswds/uswds-init.js"></script>
 <link href="/common/commonspot/templates/assets/css/main.min.css?v=20230112" media="screen, print" rel="stylesheet">
 <!-- <![endif]-->
 <link href='//fonts.googleapis.com/css?family=Open+Sans:700,600,400|Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
@@ -71,9 +71,9 @@ border-collapse:separate;
 </style>
 <script src='/common/commonspot/templates/js/federated-analytics-uav1.js?ver=true&agency=DOI&subagency=NPS&exts=rtf,odt,ods,odp,brf&dclink=true&enhlink=true' id='_fed_an_ua_tag'></script>
 <meta property="og:type" content="website" />
-<!-- not view page: /laro/planyourvisit/boating.htm -->
 <meta property="og:title" content="Boating - Lake Roosevelt National Recreation Area (U.S. National Park Service)" />
 <meta property="og:url" content="https://www.nps.gov/laro/planyourvisit/boating.htm" />
+<meta property="og:description" content="Boating information" />
 <!-- end (5) CustomHead -->
 <!-- beg (6) TertiaryResources -->
 <meta property="og:image" content="https://www.nps.gov/laro/planyourvisit/images/LARO_FortSpokane_BoatsOnWater_NPSJWoerner_07052024.JPG" /><meta property="og:image:height" content="2337" /><meta property="og:image:width" content="4674" /><meta property="og:image:alt" content="several motor boats out on the water on a sunner day, with low mountains in the background" /><meta property="og:image" content="https://www.nps.gov/laro/planyourvisit/images/Hanson-Harbor-Boating-Family-NPS_2.jpg" /><meta property="og:image:height" content="3897" /><meta property="og:image:width" content="2922" /><meta property="og:image:alt" content="a family loads onto a small boat on a dock. A man stands on the dock leaning down to the boat while his family sits in the boat" /><meta property="og:image" content="https://www.nps.gov/laro/planyourvisit/images/Boat-Poster-508_1.jpg" /><meta property="og:image:height" content="534" /><meta property="og:image:width" content="400" /><meta property="og:image:alt" content="Poster providing instruction to boaters when firefighting aircraft are using the lake to pick up water." />
@@ -193,8 +193,8 @@ secure websites.
 <!--googleon: index-->
 <!--googleoff: index-->
 <div class="GlobalHeader usaGlobalHeader" role="banner">
-<div class="GlobalHeader__Navbar container">
-<a class="GlobalHeader__Branding me-auto link-white" href="/">
+<div class="GlobalHeader__Navbar container GlobalHeader__Navbar--Park ">
+<a class="GlobalHeader__Branding link-white" href="/">
 <img src="/theme/assets/dist/images/branding/logo.png"
 alt=""
 width="80"
@@ -204,6 +204,12 @@ class="GlobalHeader__Branding__Arrowhead img-fluid">
 National Park Service
 </span>
 </a>
+<div class="GlobalHeader__ParkBranding">
+<a href="" class="GlobalHeader__ParkBranding__Link">
+<span class="GlobalHeader__ParkBranding__Name">Lake Roosevelt</span>
+National Recreation Area
+</a>
+</div>
 <a href="#GlobalFooterSearchInput"
 class="GlobalHeader__FooterSearchLink js-scrollTo link-white">
 <svg class="usa-icon"
@@ -256,8 +262,8 @@ value="www.nps.gov/laro">
 <input type="hidden" name="affiliate" value="nps">
 </form>
 </div>
-<nav id="GlobalNav" class="GlobalNav">
-<h1 id="GlobalNavButtonContainer" class="usaGlobalNavButtonContainer">
+<nav id="GlobalNav" class="GlobalNav usaGlobalNav">
+<div id="GlobalNavButtonContainer" class="usaGlobalNavButtonContainer">
 <button type="button"
 id="GlobalNav-toggle"
 class="usa-button usa-button--inverse-fill"
@@ -285,7 +291,7 @@ Close
 <span class="visually-hidden">Menu</span>
 </span>
 </button>
-</h1>
+</div>
 <div id="GlobalNavCollapse" class="collapse">
 <div class="container">
 <p class="GlobalNav__LanguageInfo">
@@ -323,39 +329,18 @@ window.addEventListener('load', (event) => {
 NPS.utility.updateBannerImageFromJSON( "laro" );
 });
 </script>
-<header id="HERO" class="Hero Hero--Ribbon -secondary">
-<div id="HeroBanner" class="HeroBanner ">
-<div class="HeroBanner__TitleContainer">
-<div class="container">
-<a href="&#x2f;laro&#x2f;"
-class="HeroBanner__Title"
->Lake Roosevelt</a>
-<div class="HeroBanner__Subtitle" role="presentation">
-<span class="Hero-designation" >National Recreation Area</span>
-<span class="Hero-location" >
-Washington
-</span>
-</div>
-</div>
-</div>
-<div class="picturefill-background"
-role="img"
-style="background-image: url('/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=1024&height=200');background-position 50% 0%;" aria-label="Purple flowers on green plants overlooking a sweeping blue lake and one motorboat on the water.">
-<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=1200&height=200"
-data-media="(min-width: 1024px)"></span>
-<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=2400&height=400"
-data-media="(min-width: 1024px) and (min-resolution: 144dppx)"></span>
-<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=2400&height=400"
-data-media="(min-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5)"></span>
-<span data-src="/common/uploads/banner_image/pwr/secondary/ACFE2FE3-F847-F4F3-A008EA40282EEB40.jpg?mode=crop&quality=90&width=2400&height=400"
-data-media="(min-width: 1440px)"></span>
-</div>
-</div>
-</header>
 </div></div><div id="cs_control_481855" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_61921_481855"> </div></div></div></div></div></div>
-<div id="Park-header">
+<div class="nps-park-header bg-black text-white usa-dark-background">
 <div class="container">
-<div class="pull-left">
+<a href="/laro/index.htm" class="nps-park-header__title">
+<span class="nps-park-header__title__name">
+Lake Roosevelt
+</span>
+National Recreation Area
+</a>
+<!--googleoff: index-->
+<div class="nps-park-header__navbar">
+<nav id="LocalNav-desktop-nav">
 <!--googleoff: index-->
 <nav id="LocalNav-desktop-nav" role="navigation">
 <div id="cs_control_699042" class="cs_control CS_Element_CustomCF"><div id="CS_CCF_61921_699042"><div id="cs_control_481717" class="cs_control CS_Element_Custom"><!-- _CSDPFID=61921|61921=_CSDPFID -->
@@ -364,7 +349,7 @@ div.ColumnMain #npsNav h2 { display:none }
 </style>
 <!-- nav -->
 <!--googleoff: index-->
-<div id="npsNav" class="FA45F1BC-E5D3-3B53-3C4C29A74D72CEE2">
+<div id="npsNav" class="4F6E742B-D6CE-6718-C40098B75A7CCC6F">
 <ul id="LocalNav" class="sm sm-nps"></ul>
 </div>
 <!--googleon: index-->
@@ -391,66 +376,49 @@ $("ul#LocalNav > li > a")
 .wrap("<div class='top-lvl-item'>");
 })(jQuery);
 </script>
-</div>
-<!--googleoff: index-->
-<div class="Utility-nav">
-<div id="UtilityNav" class="UtilityNav" role="navigation">
-<ul>
+</nav>
+<nav>
+<ul id="UtilityNav" class="nps-park-header__utility-nav">
 <li>
-<a href="/laro/planyourvisit/basicinfo.htm">
-<span class="UtilityNav-text">Info</span>
-<svg class="usa-icon"
-role="presentation"
-focusable="false">
-<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#info" />
-</svg>
-</a>
-</li>
-<li class="UtilityNav__Alerts">
-<a href="/laro/planyourvisit/conditions.htm">
-<span class="UtilityNav-text">Alerts</span>
-<span class="UtilityNav-badge"></span>
-<svg class="usa-icon"
-role="presentation"
-focusable="false">
-<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#safety-caution-alerts" />
-</svg>
+<a class="usa-link" href="/laro/planyourvisit/basicinfo.htm">
+Info
 </a>
 </li>
 <li>
-<a href="/laro/planyourvisit/maps.htm">
-<span class="UtilityNav-text">Maps</span>
-<svg class="usa-icon"
-role="presentation"
-focusable="false">
-<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#location_on" />
-</svg>
+<a class="usa-link" href="/laro/planyourvisit/conditions.htm">
+Alerts
+<span class="usa-tag" id="nps-park-header-alerts-badge"></span>
 </a>
 </li>
 <li>
-<a href="/laro/planyourvisit/calendar.htm">
-<span class="UtilityNav-text">Calendar</span>
-<svg class="usa-icon"
-role="presentation"
-focusable="false">
-<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#event" />
-</svg>
+<a class="usa-link" href="/laro/planyourvisit/maps.htm">
+Maps
 </a>
 </li>
 <li>
-<a href="/laro/planyourvisit/fees.htm">
-<span class="UtilityNav-text">Fees</span>
-<svg class="usa-icon"
-role="presentation"
-focusable="false">
-<use href="/theme/assets/vendor/npsds/packages/icons/dist/sprite.svg#passes-and-fees" />
-</svg>
+<a class="usa-link" href="/laro/planyourvisit/calendar.htm">
+Calendar
+</a>
+</li>
+<li>
+<a class="usa-link" href="/laro/planyourvisit/fees.htm">
+Fees
 </a>
 </li>
 </ul>
-</div>
+</nav>
 </div>
 <!--googleon: index-->
+</div>
+</div>
+<div id="nps-park-alert-banner" data-site-code="laro" hidden>
+<div class="container">
+<div class="usa-alert margin-top-3">
+<div class="usa-alert__body">
+<p class="usa-alert__text"></p>
+</div>
+</div>
+<div class="visually-hidden" role="status"></div>
 </div>
 </div>
 <div id="nps-park-alert-banner" data-site-code="laro" hidden>
@@ -1064,6 +1032,18 @@ list.innerHTML = '';
 <!--googleoff: index-->
 <footer id="GlobalFooter" class="usa-footer">
 <div class="usa-footer__primary-section">
+<picture class="usa-footer__primary-section-bg" aria-hidden="true">
+<source
+media="(max-width: 599px)"
+srcset="/common/commonspot/templates/assets/images/app-promo/app-promo-background-square.png?format=webp"
+type="image/webp">
+<img
+class="usa-footer__primary-section-bg__image"
+src="/common/commonspot/templates/assets/images/app-promo/app-promo-background-large.png?format=webp"
+alt=""
+loading="lazy"
+decoding="async">
+</picture>
 <div class="container">
 <form id="GlobalFooterSearch"
 class="GlobalFooter__Search usa-form usa-form--large"
