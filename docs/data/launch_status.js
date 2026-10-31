@@ -3,7 +3,7 @@ window.LAUNCH_STATUS_DATA = {
   "metadata": {
     "current_lake_elevation_ft": 1285.8,
     "observed_at": "2026-10-14T00:00:00.000",
-    "retrieved_at": "2026-10-30T12:21:52-06:00",
+    "retrieved_at": "2026-10-31T11:28:32-06:00",
     "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
     "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
     "status_rules": {
@@ -34,7 +34,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -57,7 +57,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -80,7 +80,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -103,7 +103,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -126,7 +126,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -149,7 +149,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -172,7 +172,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -195,7 +195,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -218,7 +218,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -241,7 +241,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -264,7 +264,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -287,7 +287,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -310,7 +310,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -333,7 +333,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -356,7 +356,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -379,7 +379,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -402,7 +402,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -425,7 +425,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -448,7 +448,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -471,7 +471,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -494,7 +494,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     },
     {
@@ -517,7 +517,7 @@ window.LAUNCH_STATUS_DATA = {
         "lake_elevation_source": "USGS 12436000 Franklin Roosevelt Lake at Grand Coulee Dam",
         "lake_elevation_source_url": "https://waterservices.usgs.gov/nwis/dv/?format=json&sites=12436000&period=P30D&parameterCd=62614&siteStatus=all",
         "observed_at": "2026-10-14T00:00:00.000",
-        "data_retrieved_at": "2026-10-30T12:21:52-06:00"
+        "data_retrieved_at": "2026-10-31T11:28:32-06:00"
       }
     }
   ]
